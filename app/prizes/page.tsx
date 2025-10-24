@@ -1,7 +1,7 @@
-import CardSection from "./components/CardSection";
-import HeroSection from "./components/HeroSection";
-import PrizeModal from "./components/PrizeModal";
-import RedeemedSection from "./components/RedeemedSection";
+import CardSection from "./feature/CardSection";
+import HeroSection from "./feature/HeroSection";
+import PrizeModal from "./feature/PrizeModal";
+import RedeemedSection from "./feature/RedeemedSection";
 
 export default function Prizes() {
   return (
