@@ -1,3 +1,9 @@
 export default function Header() {
-  return <h1>Header</h1>;
+  return (
+    <div className="border flex">
+      <h1>Small steps</h1>
+      <h2>Prizes</h2>
+      <div>Account</div>
+    </div>
+  );
 }
