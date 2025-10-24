@@ -1,3 +1,12 @@
 export default function Home() {
-  return <div>One Small Step</div>;
+  return (
+    <>
+      <div>
+        <h1>One Small Step</h1>
+        <h2>Small Goals</h2>
+        <h2>Huge Changes</h2>
+      </div>
+      <div>Login Modal</div>
+    </>
+  );
 }
